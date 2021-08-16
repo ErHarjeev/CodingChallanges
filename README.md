@@ -1,2 +1,0 @@
-# CodingChallanges
-Coding Challenges
